@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "../../Project Laravel/web_gitar"
+		},
+		{
+			"path": "../../../../opt/lampp/htdocs/app-surat"
+		},
+		{
+			"path": "../../Project CI/kontrak-kerja"
+		},
+		{
+			"path": "../../Downloads/soft-ui-dashboard"
+		},
+		{
+			"path": "../../Documents/CNN Pitaya"
+		},
+		{
+			"path": "../../Project Js"
+		},
+		{
+			"path": "../../Project Laravel/stok_barang_laravel-main"
+		},
+		{
+			"path": "../../Project Python"
+		}
+	],
+	"settings": {}
+}
